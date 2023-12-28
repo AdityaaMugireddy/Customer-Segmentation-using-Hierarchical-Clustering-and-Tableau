@@ -1,10 +1,34 @@
 # -Customer-Segmentation-using-Hierarchical-Clustering-and-Tableau
-This project harnesses the power of hierarchical clustering and RFM analysis to perform a comprehensive segmentation of mall customers based on key factors such as age and annual income. The culmination of this analysis is presented through a refined Tableau dashboard, transforming raw data into actionable insights.
+Customer Segmentation is the process of splitting an organization's customer base into smaller groups that exhibit similar behaviors or characteristics. This practice allows businesses to better understand their customers and tailor their marketing efforts and strategies accordingly. By segmenting customers, businesses can make data-driven decisions and maximize the value of each customer to the organization.
 
-Key Features:
+## Why Customer Segmentation?
 
-Data-driven Segmentation: Utilizing hierarchical clustering, we've strategically grouped customers to unveil nuanced patterns in their behavior.
+Customer Segmentation provides numerous benefits to businesses, including:
 
-RFM Analysis: Precision-driven RFM analysis provides a holistic view of customer engagement, distilling it into a comprehensive spending score for each individual.
+1. Improved Marketing Effectiveness
+2. Enhanced Customer Satisfaction
+3. Optimized Resource Allocation
+4. Increased Customer Retention
+5. Opportunities for Product Development
 
-Tableau Dashboard: Our professional Tableau dashboard serves as a dynamic visualization tool, offering an intuitive interface for users to explore and interpret the segmented data.
+## How to Perform Customer Segmentation?
+
+Customer Segmentation involves several steps:
+
+1.Extracting useful features
+2.Determining optimal number of clusters
+3.Creating a scatter plot
+4.Discovering Insights
+
+
+
+## Contributing
+
+Contributions to this repository are welcome. If you have any suggestions, improvements, or additional resources related to Customer Segmentation, feel free to submit a pull request.
+
+
+## Acknowledgments
+
+We would like to acknowledge the contributions of the following individuals to the development of this Customer Segmentation guide:
+- Sai Srinivas S S: https://github.com/saisrinivas2511
+- Jyothiraditya Mugireddy: https://github.com/AdityaMugireddy
