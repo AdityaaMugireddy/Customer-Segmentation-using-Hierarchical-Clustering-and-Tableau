@@ -15,15 +15,10 @@ Customer Segmentation provides numerous benefits to businesses, including:
 
 Customer Segmentation involves several steps:
 
-1.Extracting useful features
-
-2.Determining optimal number of clusters
-
-3.Creating a scatter plot
-
-4.Discovering Insights
-
-
+1. Extracting useful features
+2. Determining optimal number of clusters
+3. Creating a scatter plot
+4. Discovering Insights
 
 ## Contributing
 
